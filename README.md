@@ -62,27 +62,27 @@ Open_to:    Software Engineering Internships
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,dart,sql&theme=dark" />
 </p>
 
 ### 🌐 Frontend & Mobile
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,vue,flutter,tailwind,html,css&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Frameworks
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,flask&theme=dark" />
 </p>
 
 ### 🗄️ Databases
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
 </p>
 
 ### 🔧 Tools & DevOps
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman,vscode,androidstudio&theme=dark" />
 </p>
 </div>
