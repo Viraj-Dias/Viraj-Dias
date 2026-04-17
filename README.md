@@ -43,14 +43,14 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name:       Dumindu Viraj Dias
-location:   Colombo, Sri Lanka 🇱🇰
-role:       Intern Software Engineer
-education:  BICT (Hons) — University of Ruhuna  |  GPA: 3.53
-focus:      Full-Stack Development · Mobile Apps · Cloud & DevOps
-currently:  Building FinTrack 💰 & Vehicle Parking System 🚗
-research:   Privacy-Preserving IoT Forensics w/ Federated Learning
-open_to:    Software Engineering Internships
+Name:       Dumindu Viraj Dias
+Location:   Colombo, Sri Lanka 🇱🇰
+Role:       Intern Software Engineer
+Education:  BICT (Hons) — University of Ruhuna  |  GPA: 3.53
+Focus:      Full-Stack Development · Mobile Apps · Cloud & DevOps
+Currently:  Building FinTrack 💰 & Vehicle Parking System 🚗
+Research:   Privacy-Preserving IoT Forensics w/ Federated Learning
+Open_to:    Software Engineering Internships
 ```
 
 ---
@@ -58,7 +58,7 @@ open_to:    Software Engineering Internships
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+<div align="center">
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
@@ -85,7 +85,7 @@ open_to:    Software Engineering Internships
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman,vscode,androidstudio&theme=dark" />
 </p>
-
+</div>
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
