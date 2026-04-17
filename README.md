@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://your-banner-url-here.png" alt="Viraj Dias Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Viraj-Dias/Viraj-Dias/refs/heads/main/viraj%20dias.png" alt="Viraj Dias Banner" width="100%" />
 </div>
 
 <br/>
@@ -131,31 +131,7 @@ open_to:    Software Engineering Internships
 
 </div>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      RESEARCH                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📄 Research Publication
-
-> **Privacy-Preserving IoT Forensics: A Federated Learning Framework for Behavioral Fingerprinting and Post-Attack Analysis** *(2026 — In Progress)*
->
-> Proposing a federated learning approach to IoT forensics that builds behavioral fingerprints at edge gateways — eliminating raw data offloading. Utilizes Random Forest & XGBoost on the Edge-IIoTset dataset for anomaly detection and attack classification.
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viraj-Dias&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   PROFILE VIEWS COUNTER                       -->
