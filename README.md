@@ -58,7 +58,7 @@ Open_to:    Software Engineering Internships
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
+<div align="left">
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
